@@ -1,2 +1,4 @@
 # Database-Lab-Project
 A desktop based DBMS project .The project is basically related to the development of a database management system for an IT training center which can provide the information of the administrator, trainers, training courses, trainees etc.
+
+In this database management system, we are going to give an ID and security PIN to the authorised member of this institution. Only these members can enter into this system. We are going to provide the information relating to the administration, trainers, trainees, running courses, course duration, course exams, course fees etc. The information can be updated centrally time to time as the courses start and end. Also the information of the new trainers and trainees can be added in the system. New course information can also be added to the database. It’s not going to be an online based system. This system will be desktop based and classified.
